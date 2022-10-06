@@ -1,0 +1,74 @@
+@import url(https://fonts.googleapis.com/css?family=Righteous&display=swap);
+
+body {
+  font-family: 'Righteous', cursive;
+}
+
+.xxl-text {
+  font-size: 3rem;
+}
+
+.xl-text {
+  font-size: 2rem;
+}
+
+.lg-text {
+  font-size: 1.5rem;
+}
+
+.md-text {
+  font-size: 1.2rem;
+}
+
+.block {
+  height: 10rem;
+  border: 1px solid rgba(0, 0, 0, 0.2);
+  border-left: .5rem solid;
+  min-width: 17.5rem;
+}
+
+.icon {
+  font-size: 5rem;
+  min-width: 5rem;
+}
+
+.progress {
+  height: 0.6rem;
+}
+
+.signature {
+  position: absolute;
+  bottom: 10px;
+}
+
+
+
+.create-btn {
+    font-family: "Roboto", sans-serif;
+    text-transform: uppercase;
+    outline: 0;
+    background: #363636;
+    width: 20%;
+    border: 0;
+    padding: 15px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
+
+
+
+  .find-btn {
+    font-family: "Roboto", sans-serif;
+    outline: 0;
+    background: #363636;
+    border: 0;
+    padding: 6px;
+    color: #FFFFFF;
+    font-size: 14px;
+    -webkit-transition: all 0.3 ease;
+    transition: all 0.3 ease;
+    cursor: pointer;
+  }
